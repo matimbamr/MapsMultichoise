@@ -9,6 +9,11 @@
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC DOes this edit go all the way to the bundle
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ## Show all tables available in this share.
 
 # COMMAND ----------
