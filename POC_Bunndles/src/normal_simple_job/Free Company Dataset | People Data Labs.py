@@ -9,6 +9,11 @@
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC TESting best palce to edit
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ## Show all tables available in this share.
 
 # COMMAND ----------

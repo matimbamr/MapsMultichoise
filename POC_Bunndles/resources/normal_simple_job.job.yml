@@ -7,7 +7,7 @@ resources:
           email_notifications: {}
           environment_key: Default
           notebook_task:
-            notebook_path: ../src/normal_simple_job/Free Company Dataset | People Data Labs.py
+            notebook_path: /Workspace/Repos/repo_databricks_workflows/MapsMultichoise/POC_Bunndles/src/normal_simple_job/Free Company Dataset | People Data Labs
             source: WORKSPACE
           run_if: ALL_SUCCESS
           timeout_seconds: 0
